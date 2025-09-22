@@ -133,11 +133,11 @@ spec:
 
 ### Скриншоты
 
-![Создание ConfigMap](https://github.com/asad-bekov/hw-37/blob/main/img/1.PNG)
+![Создание ConfigMap](https://github.com/asad-bekov/hw-39/blob/main/img/1.PNG)
 
-![Создание Service](https://github.com/asad-bekov/hw-37/blob/main/img/2.PNG)
+![Создание Service](https://github.com/asad-bekov/hw-39/blob/main/img/2.PNG)
 
-![Проверка доступности через curl](https://github.com/asad-bekov/hw-37/blob/main/img/3.PNG)
+![Проверка доступности через curl](https://github.com/asad-bekov/hw-39/blob/main/img/3.PNG)
 
 ---
 
@@ -204,11 +204,11 @@ spec:
 
 ### Скриншоты
 
-![Генерация SSL-сертификата](https://github.com/asad-bekov/hw-37/blob/main/img/4.PNG)
+![Генерация SSL-сертификата](https://github.com/asad-bekov/hw-39/blob/main/img/4.PNG)
 
-![Создание TLS Secret](https://github.com/asad-bekov/hw-37/blob/main/img/5.PNG)
+![Создание TLS Secret](https://github.com/asad-bekov/hw-39/blob/main/img/5.PNG)
 
-![HTTPS доступ через curl -k](https://github.com/asad-bekov/hw-37/blob/main/img/6.PNG)
+![HTTPS доступ через curl -k](https://github.com/asad-bekov/hw-39/blob/main/img/6.PNG)
 
 ---
 
@@ -280,5 +280,5 @@ roleRef:
 
 ### Скриншот
 
-![Доступ к pods и запрет доступа к services](https://github.com/asad-bekov/hw-37/blob/main/img/7.PNG)
+![Доступ к pods и запрет доступа к services](https://github.com/asad-bekov/hw-39/blob/main/img/7.PNG)
 
